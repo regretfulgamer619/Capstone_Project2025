@@ -70,7 +70,7 @@
 
 4) We then move to Visualization and Plotting using **Bokeh**(for time series plot) and **Panel**(to host the interactive dashboard) for observing the price variations for the two models. The final prices that are calculated using both the models are sent to a live dashboard build.
 
-# Summary
+# SUMMARY
 
    Dynamic Parking Pricing System is a real-time pricing engine designed to optimize parking space utilization in urban environments. Using a stream processing framework **(Pathway)**, the system simulates real-time events from parking lot data to dynamically compute parking prices.
 
